@@ -1,0 +1,6 @@
+com\janiny\tools\test\exec\dto\OutReport.class
+com\janiny\tools\test\exec\dto\InputFile.class
+com\janiny\tools\test\exec\entity\Vendedor.class
+com\janiny\tools\test\exec\entity\Cliente.class
+com\janiny\tools\test\exec\Main.class
+com\janiny\tools\test\exec\entity\Venda.class
